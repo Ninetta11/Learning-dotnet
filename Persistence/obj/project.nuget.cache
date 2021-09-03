@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VWnLxYJ2TAo/u52efTTO+7sIq+ZlnCtm7gJKPdXCLv3y4rHvmmnCbIaYj3LBCW/G3G8eOZrK9SMDDYtcbSn0Jw==",
+  "dgSpecHash": "FkHxHUBZt5Gxs6N2foD+gZq5PXPT1uLcqU8uUUaaag+81/GKHtVtwC7fiMc58o27lSswGrnkUfgbwi0DtSnGEA==",
   "success": true,
-  "projectFilePath": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Persistence/Persistence.csproj",
+  "projectFilePath": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/ninawelsh/.nuget/packages/microsoft.data.sqlite.core/5.0.9/microsoft.data.sqlite.core.5.0.9.nupkg.sha512",
     "/Users/ninawelsh/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

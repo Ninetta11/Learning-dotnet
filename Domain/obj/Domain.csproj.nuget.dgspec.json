@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/Domain.csproj": {}
+    "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/Domain.csproj": {
+    "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/Domain.csproj",
+        "projectPath": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Domain/Domain.csproj",
         "packagesPath": "/Users/ninawelsh/.nuget/packages/",
-        "outputPath": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/obj/",
+        "outputPath": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ninawelsh/.nuget/NuGet/NuGet.Config"

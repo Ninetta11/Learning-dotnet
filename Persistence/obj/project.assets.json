@@ -958,11 +958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Persistence/Persistence.csproj",
+      "projectUniqueName": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Persistence/Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Persistence/Persistence.csproj",
+      "projectPath": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Persistence/Persistence.csproj",
       "packagesPath": "/Users/ninawelsh/.nuget/packages/",
-      "outputPath": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Persistence/obj/",
+      "outputPath": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ninawelsh/.nuget/NuGet/NuGet.Config"
@@ -977,8 +977,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/Domain.csproj": {
-              "projectPath": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/Domain.csproj"
+            "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Domain/Domain.csproj": {
+              "projectPath": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Domain/Domain.csproj"
             }
           }
         }

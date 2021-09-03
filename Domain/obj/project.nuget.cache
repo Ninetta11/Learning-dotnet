@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7IZnBHEtqJG5DDRhW43XecjkOyPUGdnq3STrcFKTXlmqIEAHdcTuwyI8StBwLhd7TxXhuM+/ozWelCStJAaVZg==",
+  "dgSpecHash": "WzY+C0I2URWbVgdwQJQ60DTdd+vb57ZBFSr3a2PbAE06ZdrdQ5MxejWzL7XcFhmZFbhPxwvi81u/9p/QtwhTrA==",
   "success": true,
-  "projectFilePath": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/Domain.csproj",
+  "projectFilePath": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Domain/Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

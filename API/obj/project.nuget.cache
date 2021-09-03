@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rHLqGenw7jNJ4jtPlvxuw3uB0Wgdxk0kxLAGcdm5+xdnCe7tW/e0ic4nttnMprZYqDD2nPAoG6qLS1YjuxAlJA==",
+  "dgSpecHash": "u4PVRTjMzS2ML6Rf1i/tjCoSIBh/PYiaBZ6YguqZIVldwD/7T2ZLeWXzJ8MYwbM3w4nfgQwYNyqsigkfxIn4+A==",
   "success": true,
-  "projectFilePath": "/Users/ninawelsh/Desktop/C# Resources/Practice_Project/API/API.csproj",
+  "projectFilePath": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/ninawelsh/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/ninawelsh/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
