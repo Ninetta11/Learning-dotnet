@@ -1,0 +1,12 @@
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/bin/Debug/net5.0/Domain.dll
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/obj/Debug/net5.0/Domain.dll
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/ninawelsh/Desktop/C# Resources/Practice_Project/Domain/obj/Debug/net5.0/Domain.pdb
