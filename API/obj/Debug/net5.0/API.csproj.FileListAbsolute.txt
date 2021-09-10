@@ -130,3 +130,6 @@
 /Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/API/obj/Debug/net5.0/ref/API.dll
 /Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/API/obj/Debug/net5.0/API.pdb
 /Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/API/bin/Debug/net5.0/FluentValidation.dll
+/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/API/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
+/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/API/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll

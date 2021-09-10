@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "GIx0vKS+x/RZ/1sHaTH9Pbt4XjeQl5gtcIUCjOuL9XHdH4jLerKuWblMVg5akRqqW//s4ST/V2is/aauo1OxVw==",
+  "dgSpecHash": "1SMZdXAnf6HGPVPm8GVs+2oh33JVnPK8CW0TQwOBsYXA43C6x2VSPQRdCNM95L5xS8kfaHBluouaKk4SDBJW8A==",
   "success": true,
   "projectFilePath": "/Users/ninawelsh/Desktop/C# Resources/Learning-dotnet/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/ninawelsh/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/ninawelsh/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/Users/ninawelsh/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512",
+    "/Users/ninawelsh/.nuget/packages/fluentvalidation.aspnetcore/10.3.3/fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "/Users/ninawelsh/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.3/fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "/Users/ninawelsh/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/Users/ninawelsh/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/ninawelsh/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
